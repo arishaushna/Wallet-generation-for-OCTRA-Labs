@@ -1,3 +1,5 @@
+## Credits: octra_labs
+
 # octra wallet generator
 
 ## quick start
